@@ -1,0 +1,36 @@
+body {
+  display: flex;
+
+}
+
+div.image-sidebar {
+  position: relative;
+  width: 30%;
+}
+
+.background-image {
+  width: 100%;
+}
+.logo {
+  position: absolute;
+  width: 100%;
+  top: 25%;
+}
+
+.header-text {
+  background-color: antiquewhite;
+}
+
+.form-input {
+  display: flex;
+  flex-direction: column;
+}
+
+.form-row {
+  display: flex;
+  justify-content: space-around;
+}
+
+.logo {
+  background-color: black;
+}
